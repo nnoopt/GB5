@@ -14,5 +14,6 @@ public class Main {
         for (Employee employee : empArray) {
             if (employee.age >= 40) employee.info();
         }
+        
     }
 }
